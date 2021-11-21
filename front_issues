@@ -1,0 +1,12 @@
+errores: 
+- deja actualizar el correo aunque sea erroneo
+- ya no envia el tacking cuando se realiza la orden
+
+
+
+
+
+front
+linea izquierda gris, linea derecha (completado) azul
+socket(actualizacion automatica)
+animacion en el estado actual

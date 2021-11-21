@@ -1,0 +1,5 @@
+- crear tracking para staging
+- en la pagina de facturacion, la pagina debe actualizarse con la fecha actual de cada dia que se visita la pagina
+- busqueda por fecha en pedidos
+- agregar edicion al correo del origen del pedido
+- en admin, al editar el numero de telefono de uno de los destinarios hay un input del tipo number que permite editar los numeros de telefono de manera ascendente y descendente, debe quitarse

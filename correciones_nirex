@@ -1,0 +1,16 @@
+Cuenta:
+ -No permite cambiar la key de Nirex
+ -Debería mostrar un mensaje de confirmación luego de actualizar
+ -No permite escribir en el campo para insertar indicaciones
+ -Agregar campos de indicación en la llave para que soliciten la de Nirex
+ 
+Nueva Orden:
+ -No se puede cambiar la dirección ni guardar una nueva
+ -No se muestra el mensaje de error en la dirección, tampoco se colorea de rojo la carta.
+ -Se debe hacer crecer la tabla de tarifas.
+ 
+Confirmar Orden: 
+ -Cobra minimo por destino en ciertas ocaciones, pero en otras no.
+ -El mapa siempre dibuja todos los destino que aparecen en nueva orden, incluso si no se seleccionan para hacer el envio.
+ -No permite crear la orden.
+ 

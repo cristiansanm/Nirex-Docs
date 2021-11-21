@@ -1,0 +1,15 @@
+git stash --> Guarda en cola los cambios realizados
+git stash pop --> Muestra de nuevo los últimos cambios realizados en la cola
+git checkout staging -> moverse a la rama staging
+git pull origin staging -> descargar los últimos cambios en la rama staging
+git status --> ver la rama y el contexto de trabajo
+git checkout -b NEWBRANCHNAME --> crear nueva rama con el nombre del ticket
+git commit -am 'Comentario de los cambios o revisiones hechas en inglés' --> subir cambios al github local
+git push origin CREATEDBRANCHNAME --> subir cambios al github remoto
+
+
+-----------------------------------------------
+click en compare & pull request
+en web, verificar la rama (que sea staging) y poner comentarios en inglés en caso que los cambios sean grandes
+Pedir pull request por la pagina y en slack
+

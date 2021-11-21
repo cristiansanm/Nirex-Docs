@@ -1,0 +1,20 @@
+1. Barra:
+botones superiores: quitar margen de 7px
+2. Nueva orden:
+Boton de seleccionar todo: quitar margen de 90 px
+boton de seleccionar cada uno:
+barra de busqueda: quitar el sombreado
+cambiar letras dentro de las tarjetas
+botones inferiores: cambiar el tamaño del contenedor de los botones (maxwidth)
+----------------------------------------
+cambiar el boton de editar
+añadir cambio de color en el hover de los botones
+
+-------------------------------
+mejoras: 
+- que permita realizar el pedido sin calcular
+-si se presiona el botón de calcular y ya se ha presionado el boton de realizar pedido, que no lance directamante el modal de confirmar envio
+
+arreglar:
+ - el formato de la fecha no es el correcto
+ - las ordenes deben salir desde la más reciente hasta la más antigua
