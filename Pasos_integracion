@@ -1,0 +1,22 @@
+pasos integracion 
+
+
+1. Crear controller de componente
+2. Crear funcion asincrona para lo que se va mandar o recibir de la API (referenciar el payload)
+3. Empezar con try - cach
+4. dentro de try crear constante response con lo que se devuelve o se recibe de la API y y con await se declara
+el objeto que se recibe (.get o .post, dependiendo de como la api envie la info), dentro de los parentesis se ponen la ruta de donde viene (/partner) y el payload (la data).
+5. Se retorna el response
+6. Ir a Actions, importar el controller del componente y dentro de types crear la accion que se ejecutara (CREATE_PARTNER, SET_PARTNER, DELETE_PARTERNER, ETC).
+7. Se copia la misma función asincrona creada en el controller y se le asigna el createAsyncThunk.
+8. Se declaro el tipo (types.GET_PARTNER e.j)
+9. Se declara una async con sus referencias ({payload}, {dispatch)}) => ()
+10.Dentro  se declara el response y se le asigna un await con el controller (PartnerController.postPartner(payload) y se retorna el response
+11. Se importa dentro del componente que se va a usar la accion creada.
+12. Se crea un dispatch = useDispatch().
+13. Se crea la funcion a ejecutar (sendPartner),
+
+
+
+
+Normalizar la nomenclatura de la API
